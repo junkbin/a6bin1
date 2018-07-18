@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
 ./node_modules/.bin/ng build --prod --base-href "https://junkbin.github.io/a6bin1/"
-./node_modules/.bin/ngh 
+./node_modules/.bin/ngh -d dist/a6bin1
